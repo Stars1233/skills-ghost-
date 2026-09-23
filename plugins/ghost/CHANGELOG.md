@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.3.0 - 2026-09-23
+
+Moves the exo skill into its own `exo` plugin in this marketplace. The `ghost` plugin now carries only the security scanning skills.
+
+### Skills
+
+- **ghost-exo** - Moved to the `exo` plugin. Install it with `/plugin install exo@ghost-security`.
+
 ## 1.2.0 - 2026-08-26
 
 Adds the `ghost-exo` skill for the exo workflow lifecycle.
